@@ -1,0 +1,14 @@
+.error-page {
+  text-align: center;
+}
+.danger-btn {
+  background-color: #db5b5b;
+  padding: 10px 50px;
+  outline: none;
+  border: navajowhite;
+  font-weight: bold;
+  font-size: 16px;
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 0px 1px 6px 2px #c67474;
+}
